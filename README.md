@@ -1,6 +1,6 @@
 # Encrypt Your Script
 ###### rm -rf Enc
-###### git clone https://Mr-Qureshi-xd/Enc
+###### git clone https://github.com/Mr-Qureshi-xd/Enc
 ###### cd Enc
 ###### python encode.py
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=5009&color=0283F7&background=FF2D2D00&vCenter=true&multiline=true&width=414&height=56&lines=MR+QURESHI+XD+HERE)](https://git.io/typing-svg) <br/>
